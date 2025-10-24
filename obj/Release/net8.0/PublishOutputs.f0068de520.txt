@@ -1,0 +1,13 @@
+C:\Repository\AzureApp\Azure-app-nick\publish\Azure-app-nick.exe
+C:\Repository\AzureApp\Azure-app-nick\publish\publish\web.config
+C:\Repository\AzureApp\Azure-app-nick\publish\appsettings.Development.json
+C:\Repository\AzureApp\Azure-app-nick\publish\appsettings.json
+C:\Repository\AzureApp\Azure-app-nick\publish\publish\appsettings.Development.json
+C:\Repository\AzureApp\Azure-app-nick\publish\publish\appsettings.json
+C:\Repository\AzureApp\Azure-app-nick\publish\publish\Azure-app-nick.deps.json
+C:\Repository\AzureApp\Azure-app-nick\publish\publish\Azure-app-nick.runtimeconfig.json
+C:\Repository\AzureApp\Azure-app-nick\publish\publish\Azure-app-nick.staticwebassets.endpoints.json
+C:\Repository\AzureApp\Azure-app-nick\publish\Azure-app-nick.dll
+C:\Repository\AzureApp\Azure-app-nick\publish\Azure-app-nick.deps.json
+C:\Repository\AzureApp\Azure-app-nick\publish\Azure-app-nick.runtimeconfig.json
+C:\Repository\AzureApp\Azure-app-nick\publish\Azure-app-nick.pdb
